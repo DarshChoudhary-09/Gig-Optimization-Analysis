@@ -13,10 +13,10 @@
 | 📁 What | 🔗 Open | What you will see |
 | --- | --- | --- |
 | 📊 **Power BI Dashboard** | [`05_Dashboard/GigEarningOptimizer.pbix`](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/GigEarningOptimizer.pbix) · [Screenshots](#dashboard) | 3-page interactive report with slicers, a what-if fee slider and Key influencers |
-| 🗄️ **SQL Code** | [`03_SQL/`](03_SQL) · [SQL walkthrough](#sql) | Data-quality checks, CTEs, window functions, views and a stored procedure |
-| 🐍 **Python Notebook** | [`04_Python/gig_analysis.ipynb`](04_Python/gig_analysis.ipynb) · [Python walkthrough](#python) | Statistical tests, bootstrap intervals and a pay model |
-| 📗 **Excel Workbook** | [`02_Excel/GigEarningOptimizer_Excel.xlsx`](02_Excel/GigEarningOptimizer_Excel.xlsx) · [Data dictionary](#excel) | Power Query cleaning, pivot tables and an Excel dashboard |
-| 🧹 **Cleaned Datasets** | [`01_Data/`](01_Data) | Analysis-ready CSV files used by every tool |
+| 🗄️ **SQL Code** | [`03_SQL/`](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/Gig_Optimization_Analysis_SQL.sql) · [SQL walkthrough](#sql) | Data-quality checks, CTEs, window functions, views and a stored procedure |
+| 🐍 **Python Notebook** | [`04_Python/gig_analysis.ipynb`](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/GigEarningOptimizer.ipynb) · [Python walkthrough](#python) | Statistical tests, bootstrap intervals and a pay model |
+| 📗 **Excel Workbook** | [`02_Excel/GigEarningOptimizer_Excel.xlsx`](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/GigEarningOptimizer_Excel.xlsx) · [Data dictionary](#excel) | Power Query cleaning, pivot tables and an Excel dashboard |
+| 🧹 **Cleaned Datasets** | [`01_Data/`](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/clean%20data.zip) | Analysis-ready CSV files used by every tool |
 
 ---
 
@@ -146,18 +146,18 @@ Sources: `[add where each dataset came from and its license]`.
 <a id="dashboard"></a>
 ## 📊 Dashboard
 
-📂 **File:** [`05_Dashboard/GigEarningOptimizer.pbix`](05_Dashboard/GigEarningOptimizer.pbix) (open with the free [Power BI Desktop](https://powerbi.microsoft.com/desktop/))
+📂 **File:** [`05_Dashboard/GigEarningOptimizer.pbix`](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/GigEarningOptimizer.pbix) (open with the free [Power BI Desktop](https://powerbi.microsoft.com/desktop/))
 
 The report has three pages: **Overview**, **Worker Pay** and **Platforms and Earnings**.
 
 ### Overview
-![Overview dashboard page](images/overview.png)
+![Overview dashboard page](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/Screenshot%202026-11-23%20121745.png)
 
 ### Worker Pay
-![Worker Pay dashboard page](images/worker_pay.png)
+![Worker Pay dashboard page](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/Screenshot%202026-11-23%20121822.png)
 
 ### Platforms and Earnings
-![Platforms and Earnings dashboard page](images/platforms_earnings.png)
+![Platforms and Earnings dashboard page](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/Screenshot%202026-11-23%20121837.png)
 
 **Interactive features**
 
@@ -222,7 +222,7 @@ flowchart LR
 <a id="sql"></a>
 ## 🗄️ SQL: Checks and Analysis
 
-📂 **Files:** [`03_SQL/`](03_SQL) `[remove anything you did not build]`
+📂 **Files:** [`03_SQL/`](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/Gig_Optimization_Analysis_SQL.sql) 
 
 | Stage | What I did | Result |
 | --- | --- | --- |
@@ -238,7 +238,7 @@ flowchart LR
 <a id="python"></a>
 ## 🐍 Python: Statistics and Modeling
 
-📂 **File:** [`04_Python/gig_analysis.ipynb`](04_Python/gig_analysis.ipynb) `[remove anything you did not run]`
+📂 **File:** [`04_Python/gig_analysis.ipynb`](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/GigEarningOptimizer.ipynb) 
 
 **Steps in the notebook**
 
@@ -272,7 +272,7 @@ def group_test(df, group, value="earnings_usd"):
 <a id="excel"></a>
 ## 📗 Excel: Cleaning and Data Model
 
-📂 **File:** [`02_Excel/GigEarningOptimizer_Excel.xlsx`](02_Excel/GigEarningOptimizer_Excel.xlsx)
+📂 **File:** [`02_Excel/GigEarningOptimizer_Excel.xlsx`](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/GigEarningOptimizer_Excel.xlsx)
 
 **Cleaning in Power Query**
 
