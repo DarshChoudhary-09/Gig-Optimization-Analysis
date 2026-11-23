@@ -12,7 +12,7 @@
 
 | 📁 What | 🔗 Open | What you will see |
 | --- | --- | --- |
-| 📊 **Power BI Dashboard** | [`05_Dashboard/GigEarningOptimizer.pbix`]([05_Dashboard/GigEarningOptimizer.pbix](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/GigEarningOptimizer.pbix)) · [Screenshots](#dashboard) | 3-page interactive report with slicers, a what-if fee slider and Key influencers |
+| 📊 **Power BI Dashboard** | [`[05_Dashboard/GigEarningOptimizer.pbix](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/GigEarningOptimizer.pbix)`]([05_Dashboard/GigEarningOptimizer.pbix](https://github.com/DarshChoudhary-09/Gig-Optimization-Analysis/blob/main/GigEarningOptimizer.pbix)) · [Screenshots](#dashboard) | 3-page interactive report with slicers, a what-if fee slider and Key influencers |
 | 🗄️ **SQL Code** | [`03_SQL/`](03_SQL) · [SQL walkthrough](#sql) | Data-quality checks, CTEs, window functions, views and a stored procedure |
 | 🐍 **Python Notebook** | [`04_Python/gig_analysis.ipynb`](04_Python/gig_analysis.ipynb) · [Python walkthrough](#python) | Statistical tests, bootstrap intervals and a pay model |
 | 📗 **Excel Workbook** | [`02_Excel/GigEarningOptimizer_Excel.xlsx`](02_Excel/GigEarningOptimizer_Excel.xlsx) · [Data dictionary](#excel) | Power Query cleaning, pivot tables and an Excel dashboard |
